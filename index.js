@@ -31,10 +31,10 @@ function iLoveTheBeatles (n) {
   do {
     love.push("I love the Beatles!");
     counter ++;
-} while (counter < 15)
+  } while (counter < 15);
 
   return love;
 }
 
-// var numberLove = iLoveTheBeatles(10);
-// console.log(numberLove);
+ var numberLove = iLoveTheBeatles(10);
+ console.log(numberLove);
