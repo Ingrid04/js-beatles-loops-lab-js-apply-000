@@ -13,10 +13,10 @@ function theBeatlesPlay ( musicians, instruments) {
 // console.log(beatleFacts);
 
 function johnLennonFacts (facts) {
-  var peruCrazyFacts =[];
+  var crazyFacts =[];
   var counter = 0;
   while (counter < facts.length) {
-    console.log(counter);
+    crazyFacts.push(facts);
     counter ++ ;
   }
 }
