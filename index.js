@@ -25,6 +25,12 @@ function johnLennonFacts (facts) {
 // var peruCrazyFacts = johnLennonFacts(peruFacts);
 // console.log(peruCrazyFacts);
 
-function iLoveTheBeatles () {
+function iLoveTheBeatles (n) {
   var love = [];
+  var counter = 0;
+  while (counter < 15) {
+    love.push("I love the Beatles!");
+    counter ++;
+  }
+  return love;
 }
