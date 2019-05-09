@@ -34,3 +34,5 @@ function iLoveTheBeatles (n) {
   }
   return love;
 }
+var numberLove = iLoveTheBeatles(n);
+console.log(numberLove);
