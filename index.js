@@ -19,6 +19,7 @@ function johnLennonFacts (facts) {
     crazyFacts.push(facts);
     counter ++ ;
   }
+  return crazyFacts;
 }
 const peruFacts = ["Machu Picchu is one of the most beautiful mountains in Peru", "Paracas is a nice place to visit"];
 var peruCrazyFacts = johnLennonFacts(peruFacts);
