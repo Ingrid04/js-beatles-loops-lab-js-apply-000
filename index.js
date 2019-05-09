@@ -7,8 +7,8 @@ function theBeatlesPlay ( musicians, instruments) {
   }
   return sentences;
 }
-var coolMusicians = ['Jlo', 'Anuel', 'Marc Anthony', 'Maluma'];
-var coolInstruments = ['Piano', 'Trumpet', 'Saxofon', 'Woodblock'];
+var coolMusicians = []; 
+var coolInstruments = [];
 var beatleFacts = theBeatlesPlay(coolMusicians, coolInstruments);
 console.log(beatleFacts);
 
