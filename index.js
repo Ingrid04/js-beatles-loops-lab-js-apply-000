@@ -13,8 +13,13 @@ function theBeatlesPlay ( musicians, instruments) {
 // console.log(beatleFacts);
 
 function johnLennonFacts (facts) {
+  var peruCrazyFacts =[];
+  var counter = 0;
+  while (counter < facts.length) {
+    console.log(counter);
+    counter ++ ;
+  }
 }
-const facts = ["He was the last Beatle to learn to drive!!!",
-  "He was never a vegetarian!!!",
-  "He was a choir boy and boy scout!!!",
-  "He hated the sound of his own voice!!!"];
+const peruFacts = ["Machu Picchu is one of the most beautiful mountains in Peru", "Paracas is a nice place to visit"];
+var peruCrazyFacts = johnLennonFacts(peruFacts);
+console.log(peruCrazyFacts);
