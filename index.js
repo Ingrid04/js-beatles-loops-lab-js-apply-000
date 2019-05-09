@@ -36,5 +36,5 @@ function iLoveTheBeatles (n) {
   return love;
 }
 
- var numberLove = iLoveTheBeatles(10);
- console.log(numberLove);
+// var numberLove = iLoveTheBeatles(10);
+ // console.log(numberLove);
