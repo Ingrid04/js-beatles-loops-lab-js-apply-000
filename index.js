@@ -21,6 +21,6 @@ function johnLennonFacts (facts) {
   }
   return crazyFacts;
 }
-const peruFacts = ["Machu Picchu is one of the most beautiful mountains in Peru", "Paracas is a nice place to visit"];
-var peruCrazyFacts = johnLennonFacts(peruFacts);
-console.log(peruCrazyFacts);
+// const peruFacts = ["Machu Picchu is one of the most beautiful mountains in Peru", "Paracas is a nice place to visit"];
+// var peruCrazyFacts = johnLennonFacts(peruFacts);
+// console.log(peruCrazyFacts);
