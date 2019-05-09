@@ -7,10 +7,6 @@ function theBeatlesPlay ( musicians, instruments) {
   }
   return sentences;
 }
-// var coolMusicians = [];
-// var coolInstruments = [];
-// var beatleFacts = theBeatlesPlay(coolMusicians, coolInstruments);
-// console.log(beatleFacts);
 
 function johnLennonFacts (facts) {
   var crazyFacts =[];
@@ -21,9 +17,6 @@ function johnLennonFacts (facts) {
   }
   return crazyFacts;
 }
-// const peruFacts = ["Machu Picchu is one of the most beautiful mountains in Peru", "Paracas is a nice place to visit"];
-// var peruCrazyFacts = johnLennonFacts(peruFacts);
-// console.log(peruCrazyFacts);
 
 function iLoveTheBeatles (n) {
   var love = [];
@@ -35,6 +28,3 @@ function iLoveTheBeatles (n) {
 
   return love;
 }
-
-// var numberLove = iLoveTheBeatles(10);
- // console.log(numberLove);
