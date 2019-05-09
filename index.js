@@ -34,5 +34,6 @@ function iLoveTheBeatles (n) {
   }
   return love;
 }
-var numberLove = iLoveTheBeatles(n);
+
+var numberLove = iLoveTheBeatles(5);
 console.log(numberLove);
