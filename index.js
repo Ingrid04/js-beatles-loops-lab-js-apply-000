@@ -7,10 +7,10 @@ function theBeatlesPlay ( musicians, instruments) {
   }
   return sentences;
 }
-var coolMusicians = []; 
-var coolInstruments = [];
-var beatleFacts = theBeatlesPlay(coolMusicians, coolInstruments);
-console.log(beatleFacts);
+// var coolMusicians = [];
+// var coolInstruments = [];
+// var beatleFacts = theBeatlesPlay(coolMusicians, coolInstruments);
+// console.log(beatleFacts);
 
 function johnLennonFacts () {
   const facts = ["He was the last Beatle to learn to drive",
